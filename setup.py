@@ -30,7 +30,7 @@ minimal_requires = [
     "inputimeout",
     "numpy",
     "Flask==3.0.0",
-    "Flask-Cors==4.0.0",
+    "Flask-Cors==6.0.0",
     "Flask-SocketIO==5.3.6",
     "flask_sqlalchemy",
     "flake8",
