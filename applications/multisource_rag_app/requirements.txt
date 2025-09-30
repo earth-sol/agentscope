@@ -1,4 +1,4 @@
-gunicorn==21.2.0,
+gunicorn==22.0.0,
 llama-index==0.10.43,
 llama-index-vector-stores-elasticsearch==0.2.1,
 llama-index-readers-docstring-walker==0.1.3,
