@@ -1,5 +1,5 @@
 gunicorn==21.2.0,
-llama-index==0.10.43,
+llama-index==0.13.0,
 llama-index-vector-stores-elasticsearch==0.2.1,
 llama-index-readers-docstring-walker==0.1.3,
 tree-sitter==0.21.3,
